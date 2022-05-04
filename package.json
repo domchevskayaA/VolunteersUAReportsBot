@@ -1,0 +1,22 @@
+{
+  "name": "VolunteersUAReportsBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Olena Domchevska <alena181823@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon",
+    "build": "node dist/src/index.js",
+    "clear": "rm -rf dist"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
