@@ -1,0 +1,46 @@
+{
+  "sessions": [
+    {
+      "id": "115891324:115891324",
+      "data": {
+        "step": "end",
+        "authId": "eyJhbGciOiJSUzI1",
+        "report": {
+          "description": "yfpdf",
+          "currency": "EUR",
+          "amount": "500",
+          "images": [
+            {
+              "file_id": "AgACAgIAAxkBAAPXYnlpvSjyHvlV9lGjrKg_FzozNMUAAuO9MRvakchLm6HMdCRt_P0BAAMCAANzAAMkBA",
+              "file_unique_id": "AQAD470xG9qRyEt4",
+              "file_size": 1509,
+              "width": 67,
+              "height": 90
+            },
+            {
+              "file_id": "AgACAgIAAxkBAAPXYnlpvSjyHvlV9lGjrKg_FzozNMUAAuO9MRvakchLm6HMdCRt_P0BAAMCAANtAAMkBA",
+              "file_unique_id": "AQAD470xG9qRyEty",
+              "file_size": 21123,
+              "width": 240,
+              "height": 320
+            },
+            {
+              "file_id": "AgACAgIAAxkBAAPXYnlpvSjyHvlV9lGjrKg_FzozNMUAAuO9MRvakchLm6HMdCRt_P0BAAMCAAN4AAMkBA",
+              "file_unique_id": "AQAD470xG9qRyEt9",
+              "file_size": 97451,
+              "width": 599,
+              "height": 800
+            },
+            {
+              "file_id": "AgACAgIAAxkBAAPXYnlpvSjyHvlV9lGjrKg_FzozNMUAAuO9MRvakchLm6HMdCRt_P0BAAMCAAN5AAMkBA",
+              "file_unique_id": "AQAD470xG9qRyEt-",
+              "file_size": 154223,
+              "width": 958,
+              "height": 1280
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
